@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-You can find my cv in [Jian Mao's CV](./assets/cv.pdf)
+You can find my cv in [Jian Mao's CV](../assets/cv.pdf)
 
